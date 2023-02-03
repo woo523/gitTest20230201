@@ -9,6 +9,10 @@
 <body>
 <h1>test1.jsp</h1>
 <h2>git edit</h2>
+<<<<<<< HEAD
 <h2>eclipse update</h2>
+=======
+<h2>git update</h2>
+>>>>>>> refs/remotes/choose_remote_name/master
 </body>
 </html>
