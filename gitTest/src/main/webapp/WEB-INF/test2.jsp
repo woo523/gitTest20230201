@@ -4,10 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>test2.jsp</title>
+<title>Insert title here</title>
 </head>
 <body>
-
 
 </body>
 </html>
